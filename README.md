@@ -1,2 +1,24 @@
-# Z3TR0
-Z3TR0 - Complex exploit and penetration hacking script
+
+![Logo](https://imgur.com/a/UTMlPo0)
+
+
+#
+
+Complex exploit and penetration hacking script
+ 
+  
+   
+    
+     
+      
+       
+        
+         
+
+
+          
+
+## Authors
+
+- [@bhoppings](https://www.github.com/bhoppings)
+
